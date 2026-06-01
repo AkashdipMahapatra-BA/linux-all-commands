@@ -26,34 +26,37 @@ mkdir -p ~/bash_practice/logs
 
 * grep "ERROR" /path/to/logfile.log
 
-> Action: Extracts and prints every line that contains the exact case-sensitive string "ERROR".
->   * Use case: Best for a quick glance at explicit error messages.
+> Action: Extracts and prints every line that contains the exact case-sensitive string "ERROR". </br>
+> Use case: Best for a quick glance at explicit error messages.
  
 ---
 
 * grep -c "ERROR" /path/to/logfile.log
 
-> Action: Counts the total number of lines matching "ERROR" instead of displaying the actual text.
->  * Use case: Ideal for generating statistics or checking if errors occurred during a specific time frame.
- 
+> Action: Counts the total number of lines matching "ERROR" instead of displaying the actual text. </br>
+> Use case: Ideal for generating statistics or checking if errors occurred during a specific time frame.
+
+<img width="862" height="112" alt="image" src="https://github.com/user-attachments/assets/d09ca56b-96fb-4348-9bc2-701c79e29ff0" />
+
 ---
 
 * grep -i "error" /path/to/logfile.log
 
-> Action: Performs a case-insensitive search, capturing variations like "error", "ERROR", "Error", or "ErRoR".
->  * Use case: Crucial when you aren't sure how the logging framework formats its text.
- 
+> Action: Performs a case-insensitive search, capturing variations like "error", "ERROR", "Error", or "ErRoR". </br>
+> Use case: Crucial when you aren't sure how the logging framework formats its text.
+
+<img width="1366" height="180" alt="image" src="https://github.com/user-attachments/assets/f70f9440-6b1f-43bb-aadc-f367f9c9a10e" />
+
 ---
 
 * grep -n "ERROR" /path/to/logfile.log
 
-> Action: Displays the matching lines along with their exact line numbers from the file.
-> * Use case: Perfect for navigating directly to the problem area inside a heavy log file using text editors like vim or nano.
+> Action: Displays the matching lines along with their exact line numbers from the file. </br>
+> Use case: Perfect for navigating directly to the problem area inside a heavy log file using text editors like vim or nano.
+
+<img width="1366" height="150" alt="image" src="https://github.com/user-attachments/assets/f22c9442-afd4-4def-a258-4e6765454e6b" />
  
 ---
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b34f0bb0-ab72-401a-8c16-bc382703e422" />
-
 
 ## Quick Reference Comparison
 
