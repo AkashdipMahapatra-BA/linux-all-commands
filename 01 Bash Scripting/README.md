@@ -19,3 +19,5 @@ mkdir -p ~/bash_practice/logs
 * `bash-practice/logs`: The specific folder structure you want to build.
 
 ---
+
+<img width="1053" height="285" alt="image" src="https://github.com/user-attachments/assets/e03ce465-abde-42aa-a652-182d574b7421" />
