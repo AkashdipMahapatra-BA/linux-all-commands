@@ -1,10 +1,10 @@
-## `bash scripting` practice with `WSL`
+## `bash scripting` practice with `WSL/Ubuntu`
 
 ---
 
-# 1st Setup the WSL
+# Move the logs file to Linux
 
-<img width="579" height="196" alt="image" src="https://github.com/user-attachments/assets/22e2f9f8-05ba-4e66-92d2-71fd1a85070e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a8b0892c-5325-4ae3-ba27-4db5a940f6ef" />
 </br>
 
 ```
