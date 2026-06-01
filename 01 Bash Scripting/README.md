@@ -20,4 +20,4 @@ mkdir -p ~/bash_practice/logs
 
 ---
 
-<img width="1053" height="285" alt="image" src="https://github.com/user-attachments/assets/e03ce465-abde-42aa-a652-182d574b7421" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c50242e0-c0bf-45d6-8aa3-3aeafb70a121" />
